@@ -1,0 +1,16 @@
+{
+  "name": "ng-nobackend",
+  "version": "0.0.1",
+  "description": "Angular.js module allows to stub calls to RESTful API in front-end code",
+  "main": "nobackend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular.js",
+    "nobackend",
+    "stub"
+  ],
+  "author": "Pavel Strashnov",
+  "license": "MIT"
+}

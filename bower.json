@@ -1,0 +1,26 @@
+{
+  "name": "ng-nobackend",
+  "version": "0.0.1",
+  "authors": [
+    "Pavel Strashnov"
+  ],
+  "description": "Angular.js module allows to stub calls to RESTful API in front-end code",
+  "main": "nobackend.js",
+  "keywords": [
+    "Angular.js",
+    "nobackend",
+    "stub"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.2.0",
+    "angular-mocks": "^1.2.0"
+  }
+}
