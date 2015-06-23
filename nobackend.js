@@ -2,7 +2,7 @@
 
 (function (ng) {
 
-    var module = ng.module('ngNobackend', ['ngMock']);
+    var module = ng.module('ngNobackend', []);
 
     if (!document.URL.match(/\?nobackend$/) && window.localStorage.nobackend !== 'true') {
         module.constant('nobackend', false);
